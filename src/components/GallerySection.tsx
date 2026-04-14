@@ -4,6 +4,7 @@ import gallery2 from "@/assets/gallery/photo2.jpg";
 import gallery3 from "@/assets/gallery/photo3.jpg";
 import gallery4 from "@/assets/gallery/photo4.jpg";
 import gallery5 from "@/assets/gallery/photo5.jpg";
+import gallery6 from "@/assets/gallery/upload-1776185476360-0.png";
 
 const galleryImages = [
   { src: gallery1, label: "La salle" },
@@ -11,6 +12,7 @@ const galleryImages = [
   { src: gallery3, label: "Nos plats" },
   { src: gallery4, label: "Nos plats" },
   { src: gallery5, label: "Nos plats" },
+  { src: gallery6, label: "Nos plats" },
 ];
 
 const GallerySection = () => {
